@@ -1,9 +1,13 @@
 # TuanASM
 
-##Install
+## Install
 
 ```npm install```
 
-##Start
+## Start
 
 ```ng serve```
+
+## View
+
+```http://localhost:4200```
